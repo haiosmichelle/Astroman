@@ -62,7 +62,7 @@ class ModeTile extends StatelessWidget {
               height: 6,
             ),
             Text(
-              '$minutes minutes',
+              '$minutes minute',
               style: TextStyle(
                 fontSize: 13,
                 color: CustomColors.secondaryTextColor,

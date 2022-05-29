@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
             create: (_) => ServiceLocator.get<TimerViewModel>()),
       ],
       child: MaterialApp(
-        title: 'Smart Washing Machine',
+        title: 'Masina de Spalat',
         debugShowCheckedModeBanner: false,
         home: MainScreen(),
       ),

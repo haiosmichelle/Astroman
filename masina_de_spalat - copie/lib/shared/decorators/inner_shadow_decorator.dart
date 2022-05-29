@@ -110,8 +110,6 @@ class _InnerShadowDecorationPainter extends BoxPainter {
         }
         break;
     }
-
-    // based on https://gist.github.com/pskink/da43c327b75eec05d903fa1b4d0c4d3e#file-decorations-dart-L97
     final depression = 12.0;
     final delta = 10 / rect.longestSide;
     final stops = [0.5 - delta, 0.5 + delta];

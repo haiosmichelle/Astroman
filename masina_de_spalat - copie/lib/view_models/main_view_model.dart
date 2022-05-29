@@ -26,12 +26,12 @@ class MainViewModel with ChangeNotifier {
       color: Color.fromRGBO(61, 111, 252, 1),
     ),
     ModeItemModel(
-      name: 'Gentle',
+      name: 'Usor',
       minutes: 24,
       color: Color.fromRGBO(50, 197, 253, 1),
     ),
     ModeItemModel(
-      name: 'Fast',
+      name: 'Rapid',
       minutes: 12,
       color: Color.fromRGBO(253, 133, 53, 1),
     ),

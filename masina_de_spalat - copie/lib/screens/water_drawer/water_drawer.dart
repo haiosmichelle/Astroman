@@ -34,7 +34,7 @@ class WaterDrawer extends StatelessWidget {
                   ),
                   SizedBox(height: 35),
                   Text(
-                    'Choose water',
+                    'Alege cantitatea de apa',
                     style: TextStyle(
                       fontSize: 26,
                       color: CustomColors.primaryTextColor,
@@ -43,7 +43,7 @@ class WaterDrawer extends StatelessWidget {
                   ),
                   SizedBox(height: 3),
                   Text(
-                    'Please save choice',
+                    'Te rog salveaza alegerea',
                     style: TextStyle(
                       fontSize: 14,
                       color: CustomColors.primaryTextColor,
@@ -63,7 +63,7 @@ class WaterDrawer extends StatelessWidget {
                   SizedBox(height: 80),
                   RichText(
                     text: TextSpan(
-                      text: 'Current  ',
+                      text: 'Curent  ',
                       style: TextStyle(
                         color: CustomColors.primaryTextColor,
                         fontWeight: FontWeight.w300,

@@ -61,9 +61,6 @@ class _WhirlpoolRenderObject extends RenderBox {
     _drawDrum(context, offset);
     _drawWhirlpool(context, offset);
 
-    // debug draw whirlpool circle body
-    // _physicRenderer.renderBody(
-    //     context.canvas, controller.physic.whirlpoolCoreBody);
   }
 
   @override

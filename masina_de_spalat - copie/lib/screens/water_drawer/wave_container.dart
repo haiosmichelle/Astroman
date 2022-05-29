@@ -4,12 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:vector_math/vector_math.dart' as Vector;
 
-/*
- * Based on Nhan Cao wave demo
- * License: MIT License
- * Copyright (c) 2018 Nhan Cao
- * Source: https://github.com/nhancv/nc_flutter_util/blob/master/lib/demo5.dart
- */
 class WaveContainer extends StatefulWidget {
   WaveContainer({
     Key? key,
